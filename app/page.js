@@ -45,7 +45,7 @@ export default function Home() {
   return (
     <div className="background">
       <Stars />
-      {/* <Header sections={sections} /> */}
+      {<Header sections={sections} />}
       <div className="content">
         <div className="home" id="home">
           <h1 className="h1 primary">Auburn Hacks</h1>
