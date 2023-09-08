@@ -55,7 +55,7 @@ export default function Home() {
               href="https://auburn.qualtrics.com/jfe/form/SV_3fl8aWfQOrPETXg"
               target="_blank"
             >
-              PRE-REGISTER
+              PRE-REGISTER HERE
             </a>
           </div>
           <div id="placeholder-socials">
